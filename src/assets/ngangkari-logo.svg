@@ -1,0 +1,69 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 200 200"
+  fill="none"
+>
+  <g stroke="#F5E8BC" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" />
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" transform="rotate(45 100 100)" />
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" transform="rotate(90 100 100)" />
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" transform="rotate(135 100 100)" />
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" transform="rotate(180 100 100)" />
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" transform="rotate(225 100 100)" />
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" transform="rotate(270 100 100)" />
+    <path d="M90 58C90 44 110 44 110 58" stroke-width="6.5" transform="rotate(315 100 100)" />
+
+    <path d="M76 58C63 45 55 34 40 26" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M90 54C88 38 88 28 88 18" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M124 58C137 45 145 34 160 26" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M142 76C155 63 166 55 176 40" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M146 100C164 100 175 96 186 90" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M142 124C155 137 166 145 176 160" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M124 142C137 155 145 166 160 174" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M100 146C100 164 104 175 112 186" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M76 142C63 155 55 166 40 174" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M58 124C45 137 34 145 24 160" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M54 100C36 100 25 96 14 90" stroke-dasharray="1 8" stroke-width="4.2" />
+    <path d="M58 76C45 63 34 55 24 40" stroke-dasharray="1 8" stroke-width="4.2" />
+  </g>
+
+  <g fill="#F5E8BC">
+    <circle cx="100" cy="100" r="18" />
+
+    <circle cx="100" cy="66" r="4.8" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(36 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(72 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(108 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(144 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(180 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(216 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(252 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(288 100 100)" />
+    <circle cx="100" cy="66" r="4.8" transform="rotate(324 100 100)" />
+
+    <circle cx="100" cy="50" r="2.7" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(15 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(30 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(45 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(60 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(75 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(90 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(105 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(120 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(135 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(150 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(165 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(180 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(195 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(210 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(225 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(240 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(255 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(270 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(285 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(300 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(315 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(330 100 100)" />
+    <circle cx="100" cy="50" r="2.7" transform="rotate(345 100 100)" />
+  </g>
+</svg>
